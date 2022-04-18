@@ -3,7 +3,7 @@ entries:
   go-dock:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-04-18T09:25:53.372252-07:00"
+    created: "2022-04-18T10:53:04.493368-07:00"
     description: A Helm chart for Kubernetes
     digest: 1fdefdcaa5845a7755d05b7f1ffdebc677e93c50782cd93e616a895522e2278d
     name: go-dock
@@ -11,4 +11,4 @@ entries:
     urls:
     - go-dock-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-18T09:25:53.371326-07:00"
+generated: "2022-04-18T10:53:04.49263-07:00"
