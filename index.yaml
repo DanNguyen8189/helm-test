@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  go-dock:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-04-18T21:35:27.334611375Z"
+    description: A Helm chart for Kubernetes
+    digest: 94f6d6026cc22112df6231fed0e9ae59265af5bed3bd8f243875f00e2e488413
+    name: go-dock
+    type: application
+    urls:
+    - https://github.com/DanNguyen8189/helm-test/releases/download/go-dock-0.1.2/go-dock-0.1.2.tgz
+    version: 0.1.2
+generated: "2022-04-18T21:35:27.334617775Z"
